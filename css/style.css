@@ -509,7 +509,7 @@ h6,
   box-shadow: 0 0 45px rgba(0, 0, 0, 0.09);
   z-index: 2;
 }
-
+ 
 .service-item .btn:hover {
   color: #ffffff;
   background: var(--primary);
@@ -924,4 +924,13 @@ h2{
 }
 .slick-arrow.slick-hidden {
     display: none;
+}
+.left-side-menu-img {
+  width: 150px;
+  height: 100px;
+}
+
+.left-side-menu-img img{
+  width: 150%;
+  height: 100px;
 }
